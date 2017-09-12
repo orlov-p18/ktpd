@@ -6,7 +6,7 @@ github_username:  xunto
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 gems:
   - jekyll-feed
 exclude:
