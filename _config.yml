@@ -7,3 +7,5 @@ github_username:  xunto
 # Build settings
 markdown: kramdown
 theme: minima
+exclude:
+  - Gemfile
